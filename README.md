@@ -4,25 +4,25 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="display: inline-block; margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" style="display: inline-block; margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40" style="display: inline-block; margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="display: inline-block; margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="display: inline-block; margin: 0 10px;"/>
+</p>
 
 ---
 
 ### 🎯 About Me
 
-**Backend Systems Engineer** with **2.1+ years** of experience at **UKG**, architecting **distributed systems** and **event-driven architectures** using **Apache Kafka**. I build **scalable microservices** that handle millions of events and design **fault-tolerant systems** that never go down.
+**Backend Systems Engineer** with **2.5+ years** of experience at **UKG**, architecting **distributed systems** and **event-driven architectures** using **Apache Kafka**. I build **scalable microservices** that handle millions of events and design **fault-tolerant systems** that never go down.
 
 ---
 
 ### 🏗️ Professional Experience
 
-**Software Engineer II** | **UKG** | *2.1+ Years*
+**Software Engineer II** | **UKG** | *2.5+ Years*
 - 🏢 **Large-scale Backend Systems** - Designed APIs handling millions of requests
 - ⚡ **Performance Optimization** - Improved system throughput by 300%
 - 🔄 **Event-Driven Architecture** - Built Kafka-based real-time data pipelines
