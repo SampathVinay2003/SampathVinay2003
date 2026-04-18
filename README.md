@@ -1,6 +1,6 @@
 # 🚀 Venkata Sampath Vinay Indraganti
 
-## 📡 Software Engineer II @ UKG | Kafka Architect | Backend Systems
+## 📡 Software Engineer II @ UKG | Interested in building scalable Backend Systems
 
 ---
 
