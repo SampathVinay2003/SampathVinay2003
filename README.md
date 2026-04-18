@@ -68,12 +68,6 @@ Experienced Software Engineer II with **2.1+ years** of professional experience 
 - **Linux** (Server administration, scripting)
 - **Maven/Gradle** (Build automation)
 
-#### Cloud & DevOps
-- **Cloud Platforms** (AWS/Azure concepts)
-- **Container Orchestration** (Docker, Kubernetes basics)
-- **CI/CD Pipelines** (Automated deployment)
-- **Monitoring & Observability** (Application performance)
-
 ---
 
 ### Featured Projects
@@ -136,8 +130,8 @@ Experienced Software Engineer II with **2.1+ years** of professional experience 
 
 #### Professional Networks
 - **GitHub**: https://github.com/SampathVinay2003
-- **LinkedIn**: [Add your LinkedIn profile URL]
-- **Email**: b420025@iiit-bh.ac.in
+- **LinkedIn**: https://www.linkedin.com/in/venkata-sampath-vinay-indraganti/
+- **Email**: vsvinayindraganti@gmail.com
 
 #### Expertise Areas for Collaboration
 - **Backend Systems Architecture** and design reviews
@@ -159,12 +153,6 @@ Seeking opportunities to apply my **backend systems expertise** and **distribute
 "Building systems that not only work today but scale tomorrow requires deep understanding of architecture, performance, and reliability. I focus on creating maintainable, scalable solutions that deliver business value while maintaining engineering excellence."
 
 ---
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SampathVinay2003&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SampathVinay2003&layout=compact&theme=dark&hide_border=true)
 
 ---
 
