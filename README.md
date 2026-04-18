@@ -34,21 +34,21 @@
 ### 🛠️ Core Competencies
 
 #### 🎛️ Backend Systems Development
-- **Enterprise Java & Spring Boot** - Production-grade microservices
-- **REST API Design** - High-performance, scalable endpoints
-- **Database Architecture** - MySQL optimization, indexing strategies
-- **System Integration** - Enterprise service mesh patterns
+- **Enterprise Java & Spring Boot** - Actively learning microservices patterns
+- **REST API Design** - Building scalable endpoints and learning best practices
+- **Database Architecture** - Exploring MySQL optimization and indexing strategies
+- **System Integration** - Learning enterprise service mesh patterns
 
 #### 📡 Distributed Systems & Kafka
-- **Apache Kafka** - Event-driven architecture, real-time streaming
-- **Message Queues** - Asynchronous processing, pub/sub patterns
-- **Fault Tolerance** - Retry mechanisms, circuit breakers
-- **Scalability Patterns** - Horizontal scaling, load balancing
+- **Apache Kafka** - Learning event-driven architecture and real-time streaming
+- **Message Queues** - Understanding asynchronous processing and pub/sub patterns
+- **Fault Tolerance** - Exploring retry mechanisms and circuit breakers
+- **Scalability Patterns** - Studying horizontal scaling and load balancing
 
 #### 🔧 Technical Excellence
-- **Clean Code** - Maintainable, testable architecture
-- **Performance Engineering** - Bottleneck analysis, optimization
-- **Testing Strategies** - Unit, integration, performance testing
+- **Clean Code** - Practicing maintainable, testable architecture
+- **Performance Engineering** - Learning bottleneck analysis and optimization
+- **Testing Strategies** - Developing unit, integration, and performance testing skills
 
 ---
 
@@ -122,32 +122,32 @@ Git | Docker | Postman | Linux | IntelliJ
 ### 🌟 System Design Expertise
 
 #### 🏗️ Architecture Patterns
-- **Microservices Design** - Service boundaries, API gateways
-- **Event-Driven Architecture** - Message queues, pub/sub patterns
-- **CQRS Pattern** - Read/write optimization
-- **Caching Strategies** - Performance enhancement
+- **Microservices Design** - Learning service boundaries and API gateways
+- **Event-Driven Architecture** - Exploring message queues and pub/sub patterns
+- **CQRS Pattern** - Understanding read/write optimization
+- **Caching Strategies** - Studying performance enhancement techniques
 
 #### ⚡ Scalability & Performance
-- **Horizontal Scaling** - Distributed system design
-- **Database Sharding** - Data partitioning strategies
-- **Load Balancing** - Traffic distribution
-- **Performance Monitoring** - Bottleneck identification
+- **Horizontal Scaling** - Learning distributed system design
+- **Database Sharding** - Exploring data partitioning strategies
+- **Load Balancing** - Understanding traffic distribution
+- **Performance Monitoring** - Developing bottleneck identification skills
 
 ---
 
 ### 📈 Professional Development
 
 #### 🧠 Continuous Learning
-- **Advanced System Design** - Distributed patterns, scalability
-- **Distributed Systems** - Kafka, microservices, fault tolerance
-- **Performance Engineering** - Optimization techniques
-- **Industry Best Practices** - Modern development patterns
+- **Advanced System Design** - Actively studying distributed patterns and scalability
+- **Distributed Systems** - Learning Kafka, microservices, and fault tolerance
+- **Performance Engineering** - Exploring optimization techniques
+- **Industry Best Practices** - Following modern development patterns
 
 #### 🔍 Problem-Solving Approach
-- **Root Cause Analysis** - Complex system debugging
-- **Performance Tuning** - System optimization
-- **Code Review** - Quality assurance
-- **Technical Documentation** - Knowledge sharing
+- **Root Cause Analysis** - Developing complex system debugging skills
+- **Performance Tuning** - Learning system optimization
+- **Code Review** - Practicing quality assurance
+- **Technical Documentation** - Building knowledge sharing habits
 
 ---
 
@@ -160,12 +160,12 @@ Git | Docker | Postman | Linux | IntelliJ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sampath-vinay-indraganti/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsvinayindraganti@gmail.com)
 
-#### 🎯 Expertise Areas for Collaboration
-- **Backend Systems Architecture** - Design reviews and optimization
-- **Distributed Systems** - Kafka integration and scaling
-- **Performance Engineering** - System tuning and optimization
-- **Event-Driven Architecture** - Real-time data pipelines
-- **Enterprise Development** - Best practices and patterns
+#### 🎯 Learning Areas & Collaboration
+- **Backend Systems Architecture** - Learning design reviews and optimization
+- **Distributed Systems** - Exploring Kafka integration and scaling
+- **Performance Engineering** - Studying system tuning and optimization
+- **Event-Driven Architecture** - Building real-time data pipelines
+- **Enterprise Development** - Following best practices and patterns
 
 </div>
 
